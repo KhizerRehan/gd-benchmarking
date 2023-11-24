@@ -5,3 +5,4 @@ This PR contains Improvements Benchmark
 ## Prod Build Benchmark
 
 - [v1.Benchmark](https://gd-benchmarking.vercel.app/reports/prod/v1.benchmark.html)
+- [v2.Benchmark](https://gd-benchmarking.vercel.app/reports/prod/v2.benchmark.html)
